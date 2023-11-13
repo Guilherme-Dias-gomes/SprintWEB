@@ -7,7 +7,7 @@ export default function Integrantes(){
             <p>RM:551247 - Murilo Caumo Murgia</p>
             <p>RM:99577 - Guilherme Dias Gomes - 1TDSR</p>
             <p>RM:99661 - Victor Augusto Cifontes de Oliveira</p>
-            <h1><a href="https://github.com/gusoaresss/luna" className="repositorio">| Acesse o nosso repositório |</a></h1>
+            <h1><a href="https://github.com/Guilherme-Dias-gomes/SprintWEB" className="repositorio">| Acesse o nosso repositório |</a></h1>
         </main>
     )
 }
