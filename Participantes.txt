@@ -11,4 +11,4 @@ Victor Augusto 1TDSPN
 RM 99661
 
 OBS: tem no projeto uma área onde você pode ver os participantes e acessar o nosso repositório.
-Link do GITHUB: https://github.com/gusoaresss/luna
+Link do GITHUB: https://github.com/Guilherme-Dias-gomes/SprintWEB
